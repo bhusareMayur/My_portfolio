@@ -1,28 +1,24 @@
 # 🚀 Portfolio
 
-<h2>📖 How to Use This Repository</h2>
-<ol>
-  <li>
-    <strong>Clone this repository:</strong>
-    <pre><code class="language-bash">git clone https://github.com/bhusareMayur/portfolio.git</code></pre>
-  </li>
-  <li><strong>Open the project folder</strong> in your preferred code editor.</li>
-  <li><strong>Run the application</strong> by Installing dependencies.</li>
-</ol>
+Personal portfolio showcasing my work in **Backend Engineering**, **Distributed Systems**, and **Open Source**.
 
-<h2>📬 Contact</h2>
-<p>
-  Feel free to reach out for collaborations, suggestions, or project inquiries.
-</p>
-<ul>
-  <li>📧 <a href="mailto:mayurbhusare8262@gmail.com">mayurbhusare8262@gmail.com</a></li>
-  <li>🔗 <a href="https://www.linkedin.com/in/mayur-bhusare/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-  <li>🌐 <a href="https://bhusaremayur.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio Website</a></li>
-</ul>
-<h2>🙋‍♂️ Author</h2>
+## 🛠️ Getting Started
 
-<p>
-  <strong>Mayur Shankar Bhusare</strong><br>
-  🎓 Aspiring Software Engineer | MERN Stack Developer | Project Enthusiast | JAVA DSA 
-</p>
+```bash
+git clone https://github.com/bhusareMayur/portfolio.git
+cd portfolio
+```
 
+Open `index.html` in your browser or use a local development server.
+
+## 📬 Contact
+
+- 📧 mayurbhusare8262@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mayur-bhusare/
+- 🌐 Portfolio: https://bhusaremayur.github.io/portfolio/
+
+## 👨‍💻 Author
+
+**Mayur Bhusare**
+
+Backend Engineer • Distributed Systems • Go • Node.js
